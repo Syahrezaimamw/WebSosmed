@@ -2,7 +2,7 @@
 
 ## Identitas Project
 
-**Nama Project:** Cris MedSos - Simple Social Media Directory  
+**Nama Project:** Telegram - Simple Social Media Directory  
 **Framework:** React JS  
 **API:** https://jsonplaceholder.typicode.com/users
 
