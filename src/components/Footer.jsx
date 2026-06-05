@@ -8,7 +8,7 @@ export default function Footer() {
         {/* LEFT */}
         <div>
           <h2 className="text-blue-600 font-semibold text-lg">
-            Cris MedSos
+            LinkedIn
           </h2>
           <p className="text-sm text-gray-500 mt-1">
             Connect & Share with the world
@@ -17,7 +17,7 @@ export default function Footer() {
 
         {/* RIGHT */}
         <div className="text-sm text-gray-500 flex flex-col md:items-end">
-          <p>© 2024 Cris MedSos Inc.</p>
+          <p>© 2026 </p>
           <p>All rights reserved.</p>
         </div>
 

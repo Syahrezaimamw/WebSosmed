@@ -13,7 +13,7 @@ export default function Navbar() {
 
           <div>
             <h1 className="text-blue-600 font-semibold text-lg leading-none">
-              Cris MedSos
+              LinkedIn
             </h1>
             <p className="text-xs text-gray-400">
               Connect & Share
