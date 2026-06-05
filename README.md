@@ -2,7 +2,7 @@
 
 ## Identitas Project
 
-**Nama Project:** Telegram - Simple Social Media Directory  
+**Nama Project:** LinkedIn - Simple Social Media Directory  
 **Framework:** React JS  
 **API:** https://jsonplaceholder.typicode.com/users
 
@@ -74,7 +74,7 @@ useEffect(() => {
 
 Project dipisah menjadi beberapa component agar lebih rapi dan mudah dikelola.
 
-cris-medsos
+Linkedin
 │
 ├── src
 │   │
